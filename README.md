@@ -1,6 +1,6 @@
 # firebase_login
 
-A new Flutter application.
+Source code for login demo in Coding with Flutter series [https://codingwithflutter.com/](https://codingwithflutter.com/)
 
 ## Getting Started
 
