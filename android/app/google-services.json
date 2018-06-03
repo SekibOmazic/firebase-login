@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "889693826540",
+    "firebase_url": "https://flutter-login-example.firebaseio.com",
+    "project_id": "flutter-login-example",
+    "storage_bucket": "flutter-login-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889693826540:android:0e681f7448b7bec0",
+        "android_client_info": {
+          "package_name": "com.getrich.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889693826540-s1n4t84aropaqebhu5ahn1m11420l6u8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "889693826540-s1n4t84aropaqebhu5ahn1m11420l6u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBspH0iDxR3spHmmQkZuKDwSLOugd0Cuwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
